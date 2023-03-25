@@ -1,0 +1,6 @@
+shavin  54 98000
+reshani  87 99000
+kasun  78 -85000
+pytha  44 25000
+himeth  99 -1000
+randika  65 45000

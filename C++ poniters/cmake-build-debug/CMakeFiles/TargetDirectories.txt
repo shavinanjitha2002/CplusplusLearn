@@ -1,0 +1,3 @@
+D:/Projects/C++ Projects/C++ poniters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/C++ Projects/C++ poniters/cmake-build-debug/CMakeFiles/C___poniters.dir
+D:/Projects/C++ Projects/C++ poniters/cmake-build-debug/CMakeFiles/edit_cache.dir

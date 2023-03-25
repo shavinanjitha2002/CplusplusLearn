@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C___Basics"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Basics">
+				<Option output="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/C___Basics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Projects/C++ Projects/C++ Basics/Accounts"/>
+					<Add directory="D:/Projects/C++ Projects/C++ Basics/Date"/>
+					<Add directory="D:/Projects/C++ Projects/C++ Basics/Student"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Basics"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Basics/fast">
+				<Option output="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/C___Basics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Projects/C++ Projects/C++ Basics/Accounts"/>
+					<Add directory="D:/Projects/C++ Projects/C++ Basics/Date"/>
+					<Add directory="D:/Projects/C++ Projects/C++ Basics/Student"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Basics/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Projects/C++ Projects/C++ Basics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/C++ Projects/C++ Basics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/Accounts/Account.h">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/Accounts/AccountTest.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/Date/Date.h">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/Date/DateCheck.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/SemsterGradeBook/GradeBook.h">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/Student/Student.h">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/Student/studencheck.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/calculateAverage.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/calculateAverageMod.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/compareValue.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/firstProgram.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/sumOfIntegers.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/test.cpp">
+			<Option target="C___Basics"/>
+		</Unit>
+		<Unit filename="D:/Projects/C++ Projects/C++ Basics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

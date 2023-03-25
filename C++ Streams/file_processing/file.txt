@@ -1,0 +1,4 @@
+shavni 19 85000
+reshani 16 100000
+kasun 20 25000.1
+tharusha 20 45788

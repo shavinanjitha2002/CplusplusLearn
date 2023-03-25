@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\C___Inheritance.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\C___Inheritance.dir/objects.a @CMakeFiles\C___Inheritance.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\C___Inheritance.dir/objects.a -Wl,--no-whole-archive  -o C___Inheritance.exe -Wl,--out-implib,libC___Inheritance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C___Inheritance.dir\linklibs.rsp

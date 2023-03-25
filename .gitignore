@@ -33,3 +33,6 @@
 
 # vs code settings
 /.vscode
+
+#other
+/cmake-build-debug

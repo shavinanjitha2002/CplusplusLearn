@@ -1,0 +1,5 @@
+# ninja log v5
+2	468	6730384328733482	CMakeFiles/SLTs.dir/main.cpp.obj	6bab3325092aca5f
+569	800	6719770441255035	SLTs.exe	153f4eb43a1e9305
+0	133	6730407266259561	build.ninja	73a3095edb078c8b
+4	807	6730384332116323	CMakeFiles/SLTs.dir/vector_manipulation.cpp.obj	eb6f0611ec6f679f

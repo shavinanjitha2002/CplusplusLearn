@@ -1,0 +1,5 @@
+# ninja log v5
+339	564	6883012209216026	build.ninja	300879e51a1fb834
+4	760	6840125473546915	CMakeFiles/Data_Structures.dir/Linked_List/LinkedListTest.cpp.obj	cd5649fb58d092f3
+2	587	6761334225316719	CMakeFiles/Data_Structures.dir/main.cpp.obj	d908263a09d7cd1e
+12	756	6840125473344350	CMakeFiles/Data_Structures.dir/Linked_List/pointers.cpp.obj	fb187e24fda29014
